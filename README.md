@@ -1,3 +1,3 @@
 # EnkelCSS
 
-React component library
+React Component Library.
